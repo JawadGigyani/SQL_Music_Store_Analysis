@@ -1,6 +1,6 @@
 # SQL Music Store Analysis
 ## Project Overview
-Embark on my first-ever data journey with the Music Store Data Analysis project! Using SQL, I explored the beats of the music landscape, learning from identifying the top boss to finding out what countries jam the most.
+Embark on my first-ever data journey with the Music Store Data Analysis project! Using SQL, I explored the beats of the music landscape, learning from identifying the top employee to finding out what countries jam the most.
 
 ## Database and Tools
 - Postgre SQL
